@@ -34,7 +34,7 @@ Read:
 
 ### Learning Goal
 + To learn more about Impostor Syndrome
-+ To chat about the importance of deep work and pesistence
++ To chat about the importance of deep work and persistence
 + To take charge of managing your journey to be a software engineer
 
 ### Presentation
